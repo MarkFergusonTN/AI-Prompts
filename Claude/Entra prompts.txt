@@ -1,0 +1,2 @@
+--> Integrate Entra and Okta for Fabric
+I'm a data engineer and don't understand infrastructure and identity management very well. If my organization is using Okta for security and authentication, how I can I tie that into Microsoft Entra to use with Microsoft Fabric.

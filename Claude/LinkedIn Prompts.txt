@@ -1,0 +1,10 @@
+--> technical article/white paper
+Can you help me create a technical article for LinkedIn that is 1900-2200 words long that walks through the basic steps of implementing Microsoft Dragon for a healthcare organization. Include an engaging hook at the beginning of the post, Concise and easy to understand messaging, questions to spark conversation and a personal perspective, story, or unique take. Include visuals occasionally to illustrate the idea being discussed. Also, please introduce a small amount of humor into the article.
+
+
+--> LinkedIn Post for leadership
+Can you create a LinkedIn post with around 1200 characters that has a bit of humor for leadership teams at startup or SMB healthcare companies with this topic: Leadership post quantifying ROI from Fabric adoption — reduced data engineering overhead, faster reporting cycles, and improved care coordination metrics. Framed for CFOs and COOs at healthcare SMBs.
+
+
+--> Linked In Infographic
+Flat editorial illustration, LinkedIn hero 1200x627. A scientist in a lab coat stands nervously beside a chaotic lab bench overflowing with bubbling beakers, tangled wires, and sticky notes labeled "PHI," "EHR," "Claims Data," and "FHIR." The scientist looks panicked. The background is clean Navy (#003D72). Bold white text overlaid on the left half reads: "Your PHI Is Not a Science Experiment." Golden Wheat (#FCB912) underline accent. Flat design, slightly editorial and humorous in tone, no photorealism, no gradients. Color palette: Navy #003D72, Sky Blue #47BCEC, Golden Wheat #FCB912, Palm Green #009E7B, white.
